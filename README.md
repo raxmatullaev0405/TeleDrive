@@ -20,7 +20,7 @@ Read here for full instructions: [teledriveapp.com](https://teledriveapp.com)
 
 ## How to Contribute
 
-- Fork and clone this repository
+- Fork and clone this repository.
 - Commit your changes
 - Create a pull request to the `staging` branch
 
